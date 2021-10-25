@@ -1,0 +1,23 @@
+div {
+    padding-right: 8rem;
+    padding-bottom: 5rem;
+}
+
+h1 {
+    font-size: 4rem;
+}
+
+.welc {
+    color: #aa6f73;
+}
+.bg-welc {
+    background-color: #f6e0b5;
+}
+.addnew{
+    color: #a39193;
+}
+
+.btn {
+    border-color: #aa6f73;
+    background-color: #eea990;
+}
